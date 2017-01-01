@@ -1,1 +1,1 @@
-add_lunch_combo tipsy_condor-userdebug
+add_lunch_combo xosp_condor-userdebug
